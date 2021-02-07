@@ -1,0 +1,15 @@
+body {
+    font-family: 'Product Sans';
+}
+input:focus {
+    outline: none;
+}
+span {
+    padding: 0px;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: rgb(68, 0, 0);
+}
